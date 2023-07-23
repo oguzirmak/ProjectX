@@ -1,4 +1,4 @@
-# Repo Ödev
+# Baslik 1
 
 * Oldu galiba ***Georghe*** 
 * *yes* 
